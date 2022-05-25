@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="title_activity_greeting_card2">GreetingCard2</string>
+    <string name="your_name">Vladyslav</string>
+    <string name="hello">Hello</string>
+</resources>
